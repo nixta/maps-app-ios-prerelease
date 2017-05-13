@@ -14,6 +14,7 @@ Download and install the [iOS Runtime SDK](https://developers.arcgis.com/ios/).
 
 Then come and see Nick Furness at the Esri Booth if you have any questions. This is pre-release example app and anything may change and lots of things might not work or pretend to not work :)
 
+This repo will eventually be removed and replaced by one at https://github.com/esri.
 
 ## Contributing
 Anyone and everyone is welcome to [contribute](https://github.com/Esri/maps-app-android/blob/master/CONTRIBUTING.md). We do accept pull requests.
